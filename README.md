@@ -4,11 +4,17 @@ A small browser game built with JavaScript Canvas and Flask. Keep a thesis progr
 
 **Stack:** Python · Flask · JavaScript · HTML Canvas · CSS · JSON
 
+## Project background
+
+I built this browser game as a university coursework project using JavaScript Canvas and Flask.
+
+**Previous repository name:** `pert_7_la`.
+
 ## Run locally
 
 ```sh
-git clone https://github.com/mrafi-aditya/pert_7_la.git
-cd pert_7_la
+git clone https://github.com/mrafi-aditya/loading-skripsi.git
+cd loading-skripsi
 python -m venv .venv
 ```
 
